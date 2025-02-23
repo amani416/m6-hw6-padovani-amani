@@ -19,9 +19,6 @@ main, nav {
 
 .main-content {
     margin: 40px auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     background-color: rgb(255, 225, 233);
   }
   
@@ -29,6 +26,12 @@ main, nav {
     margin: 10px;
     padding: 20px;
     font-size: 30px;
+  }
+
+  .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
 header, footer {
