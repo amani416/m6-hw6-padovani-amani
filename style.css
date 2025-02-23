@@ -52,6 +52,7 @@ nav{
 
 .subheading{
     color: rgb(0, 154, 28);
+    display: flex;
 }
 
 footer{
