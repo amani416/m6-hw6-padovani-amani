@@ -64,6 +64,16 @@ nav{
     display: flex;
 }
 
+
+aside{
+    background-color: #f6e3ff;
+    width: 20%;
+    padding: 20px;
+    display: flex;
+    align-items: right;
+    justify-content: center;
+}
+
 footer{
     color: rgb(56, 4, 67);
     text-align: center;
