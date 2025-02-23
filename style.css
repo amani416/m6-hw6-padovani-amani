@@ -17,6 +17,10 @@ main, nav {
     padding: 0 12px;
 }
 
+p{
+    padding: 0 10px;
+}
+
 .main-content {
     margin: 40px auto;
     background-color: rgb(255, 225, 233);
