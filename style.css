@@ -20,7 +20,7 @@ main, nav {
 .main-content {
     margin: 40px auto;
     display: flex;
-    background-color: DodgerBlue;
+    background-color: rgb(255, 225, 233);
   }
   
   .main-content > div {
