@@ -6,11 +6,16 @@ body{
 main, nav {
     max-width: 800px;
     margin: 0 auto;
+    padding: 0 12px;
 }
 
 header, footer {
     background-color: lightpink;
     padding: 24px 0;
+}
+
+nav{
+    display: flex;
 }
 
 .logo, .link{
@@ -27,4 +32,5 @@ header, footer {
 
 footer{
     color: rgb(56, 4, 67);
+    text-align: center;
 }
