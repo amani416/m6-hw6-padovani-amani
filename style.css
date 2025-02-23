@@ -13,8 +13,16 @@ header, footer {
     padding: 24px 0;
 }
 
-.link{
+.logo, .link{
     color: rgb(56, 4, 67);
+}
+
+.logo{
+    margin-right: auto;
+}
+
+.link{
+    margin: 0 4px;
 }
 
 footer{
