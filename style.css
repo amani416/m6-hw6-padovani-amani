@@ -25,27 +25,16 @@ p{
     margin: 40px auto;
     background-color: rgb(255, 225, 233);
     display: flex;
-    align-items: center;
     justify-content: center;
-  }
-  
-  .main-content > div {
     padding: 20px;
-  }
-
-  .container{
+}
+  
+.container{
     display: flex;
     align-items: center;
     justify-content: center;
-  }
+}
 
-
-  .containerforaside{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: min-content;
-  }
 
 header, footer {
     background-color: lightpink;
@@ -81,11 +70,8 @@ nav{
 
 aside{
     background-color: #f6e3ff;
-    width: 20%;
     padding: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    height: fit-content;
 }
 
 aside img {
