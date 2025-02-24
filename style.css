@@ -54,6 +54,8 @@ nav{
 
 .logo{
     margin-right: auto;
+    background-color: rgb(237, 233, 237);
+    padding: 20px 10px 4px 10px;
 }
 
 .link{
