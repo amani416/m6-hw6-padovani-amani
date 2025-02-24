@@ -39,6 +39,14 @@ p{
     justify-content: center;
   }
 
+
+  .containerforaside{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: min-content;
+  }
+
 header, footer {
     background-color: lightpink;
     padding: 24px 0;
@@ -78,6 +86,12 @@ aside{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+aside img {
+    box-shadow: 2px 2px 6px grey;
+    width: 32px;
+    margin: 6px 0 3px 6px;
 }
 
 footer{
